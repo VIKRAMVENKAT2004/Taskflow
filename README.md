@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow — Full Stack Project Management App (MERN)
 
 React + Redux Toolkit + Vite | Node.js + Express | MongoDB + Mongoose | JWT
@@ -50,3 +51,6 @@ Demo logins after seeding (password `123456`): `admin@demo.com`, `member@demo.co
 - Backend (Render/Railway): set `MONGO_URI`, `JWT_SECRET`, `CLIENT_URL` (your frontend URL), `NODE_ENV=production`.
 - Frontend (Vercel/Netlify): set `VITE_API_URL` to `https://<backend>/api`, build with `npm run build`.
 
+=======
+# Taskflow
+>>>>>>> fcdeb8d00ca3f07fe91c3f1b9a52f096b70c73a6
